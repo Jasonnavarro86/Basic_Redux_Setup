@@ -1,0 +1,49 @@
+{
+  "name": "basic_redux_setup",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.2.0",
+    "axios": "^0.19.0",
+    "jquery": "^3.4.1",
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.1.2",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0"
+  },
+  "description": "React Redux Setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jasonnavarro86/Basic_Redux_Setup.git"
+  },
+  "author": "Jason Navarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jasonnavarro86/Basic_Redux_Setup/issues"
+  },
+  "homepage": "https://github.com/Jasonnavarro86/Basic_Redux_Setup#readme"
+}

@@ -1,0 +1,1 @@
+export const LOAD_DEFAULT_PAGE = "LOAD_DEFAULT_PAGE";
